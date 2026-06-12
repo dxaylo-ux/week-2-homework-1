@@ -45,3 +45,69 @@
     }
 
 }
+.section2whyjoin{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 200px;
+    .whats{
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+     .radio{
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        margin-left: -370px;
+        margin-top: 20px;
+     }
+    }
+    .section2img{
+     display: flex;
+     flex-direction: column;
+     row-gap: 20px;
+     margin-left: 20px;
+    }
+}
+.section2div{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 200px;
+    justify-content: space-evenly;
+    .divshadov{
+        width: 260px;
+        height: 280px;
+        box-shadow: 1px 0px 10px gray;
+        border-radius: 10px;
+        padding: 20px 40px;
+        .textdiv{
+            display: flex;
+            gap: 10px;
+        }
+        .textdiv2{
+            display: flex;
+            gap: 10px;
+            margin-left: -13px;
+            margin-top: 10px;
+        }
+    }
+
+     .divshadov2{
+        width: 260px;
+        height: 280px;
+        box-shadow: 1px 0px 10px gray;
+        border-radius: 10px;
+        padding: 20px 40px;
+        .textdiv2{
+            display: flex;
+            gap: 10px;
+        }
+        .textdiv3{
+            display: flex;
+            gap: 10px;
+            margin-left: -13px;
+            margin-top: 10px;
+        }
+    }
+}
