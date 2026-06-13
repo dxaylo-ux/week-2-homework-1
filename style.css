@@ -142,4 +142,87 @@
 .section3 .betwen .columndivmem .divmem .flex {
   display: flex;
   gap: 10px;
+}
+
+.section4valuble {
+  max-width: 1200px;
+  margin: auto;
+}
+.section4valuble .valu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+.section4valuble .valu .divnewst {
+  width: 500px;
+  height: 80px;
+  background-color: #e1eefe;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+.section4valuble .valu .divnewst .textdiv4 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 17px;
+}
+.section4valuble .flex2 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 60px;
+}
+.section4valuble .flex2 .divimg {
+  width: 270px;
+  height: 320px;
+  box-shadow: 0 0 10px rgb(210, 210, 210);
+  border-radius: 12px;
+}
+.section4valuble .flex2 .divimg .columnimg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: -163px;
+}
+.section4valuble .flex2 .divimg2 {
+  width: 270px;
+  height: 320px;
+  border: 2px solid rgb(249, 246, 246);
+  border-radius: 12px;
+}
+.section4valuble .flex2 .divimg2 .columnimg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: -183px;
+}
+
+.section4telfon {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1200px;
+  margin: auto;
+}
+.section4telfon .divsection4 {
+  display: flex;
+  margin-top: 100px;
+  background-color: #E5F0FD;
+  height: 500px;
+  width: 100%;
+}
+.section4telfon .divsection4 .divcolumn {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.section4telfon .divsection4 .imgsect4 {
+  display: flex;
+  gap: 20px;
+  width: 110px;
+  height: 50px;
+  margin-top: 30px;
 }/*# sourceMappingURL=style.css.map */
